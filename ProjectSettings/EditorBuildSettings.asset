@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Parker/Scenes/FureFureTitle.unity
+    guid: f9fdac343cb664d3b8d3de56d5165302
+  - enabled: 1
+    path: Assets/Noir/Scenes/UserInterface.unity
+    guid: 545aa7712e43a4067953e8522ce39f95
+  m_configObjects: {}
